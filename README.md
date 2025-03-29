@@ -122,18 +122,18 @@ Bar chart is used to display sales distribution across different product categor
 Bar charts is used to highlight the top 10 products based on sales.
 
 
-                product_type	            Total Sales
+                product_type                   Total Sales
 
-                Barista Espresso            $91406
-                Brewed Chai tea	            $77082
-                Hot chocolate	              $72416
-                Gourmet brewed coffee	      $70035
-                Brewed Black tea            $47932
-                Brewed herbal tea           $47540
-                Premium brewed coffee       $38781
-                Organic brewed coffee       $37747
-                Scone	                      $36866
-                Drip coffee                 $31984
+                Barista Espresso               $91406
+                Brewed Chai tea                $77082
+                Hot chocolate                  $72416
+                Gourmet brewed coffee          $70035
+                Brewed Black tea               $47932
+                Brewed herbal tea              $47540
+                Premium brewed coffee          $38781
+                Organic brewed coffee          $37747
+                Scone                          $36866
+                Drip coffee                    $31984
 
          
                 Thus, "Barista Espresso" is the highest selling product in the Coffee Shop.
